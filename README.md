@@ -1,7 +1,8 @@
 
 # ⌨️ How to Install Bijoy Layout in Linux (IBus)
 This guide will help you install the Bijoy Classic and Bijoy Unicode keyboard layouts on your Linux system using the **IBus m17n** engine.
-### 🚀 Installation Steps### Step 1: Install IBus m17nOpen your terminal and run the following command to install the required package:
+## 🚀 Installation Steps
+### Step 1: Install IBus m17nOpen your terminal and run the following command to install the required package:
 ```bash
 sudo apt-get install ibus-m17n
 ```
