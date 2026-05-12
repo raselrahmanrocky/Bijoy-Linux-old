@@ -23,6 +23,10 @@ sudo chmod 777 /usr/share/m17n/icons
    📁 File System > usr > share > m17n
    ```
 ### Step 4: Update Package DatabaseTo prevent the files from being deleted during system updates, you need to register them in the package database.
+Note: (install gedit to edit text in terminal)
+```bash
+sudo apt install gedit
+```
 1. Give permission to edit the database list:
    ```bash
    sudo chmod 777 /var/lib/dpkg/info/m17n-db.list
